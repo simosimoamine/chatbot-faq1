@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+faiss-cpu
+openai
+sentence-transformers
+numpy
+python-dotenv
+torch
+watchdog

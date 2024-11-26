@@ -1,0 +1,118 @@
+[
+    {
+        "question": "Quels sont vos horaires d'ouverture ?",
+        "answer": "Nos bureaux sont ouverts du lundi au vendredi de 9h à 18h. Nous sommes également ouverts le samedi de 10h à 14h."
+    },
+    {
+        "question": "Comment puis-je réserver un voyage ?",
+        "answer": "Vous pouvez réserver un voyage en ligne via notre site web, en nous appelant directement au 01 23 45 67 89, ou en visitant l'un de nos bureaux physiques."
+    },
+    {
+        "question": "Quels modes de paiement acceptez-vous ?",
+        "answer": "Nous acceptons les paiements par carte de crédit (Visa, MasterCard, American Express), PayPal, virement bancaire, et espèces dans nos bureaux."
+    },
+    {
+        "question": "Puis-je annuler ou modifier ma réservation ?",
+        "answer": "Oui, vous pouvez annuler ou modifier votre réservation jusqu'à 48 heures avant le départ sans frais. Passé ce délai, des frais d'annulation peuvent s'appliquer."
+    },
+    {
+        "question": "Offrez-vous des assurances voyage ?",
+        "answer": "Oui, nous proposons plusieurs options d'assurances voyage couvrant les annulations, les urgences médicales, la perte de bagages, et plus encore. Vous pouvez ajouter une assurance lors de la réservation."
+    },
+    {
+        "question": "Comment obtenir un visa pour mon voyage ?",
+        "answer": "Nous offrons un service d'assistance pour l'obtention de visas. Contactez notre service client pour obtenir de l'aide et connaître les documents nécessaires selon votre destination."
+    },
+    {
+        "question": "Quels sont les documents nécessaires pour voyager ?",
+        "answer": "En général, vous aurez besoin d'un passeport valide, d'un visa si requis, de billets d'avion, et d'une preuve de réservation d'hébergement. Certaines destinations peuvent nécessiter des vaccins ou des certificats sanitaires."
+    },
+    {
+        "question": "Proposez-vous des voyages sur mesure ?",
+        "answer": "Oui, nous créons des voyages personnalisés selon vos préférences, que ce soit pour des vacances en famille, des voyages d'affaires, des lunes de miel, ou des aventures solo."
+    },
+    {
+        "question": "Quels sont vos conseils pour voyager en toute sécurité ?",
+        "answer": "Nous recommandons de toujours vérifier les exigences d'entrée de votre destination, de souscrire une assurance voyage, de garder une copie de vos documents importants, et de rester informé des conditions locales et des avis de sécurité."
+    },
+    {
+        "question": "Comment suivre ma réservation en ligne ?",
+        "answer": "Après votre réservation, vous recevrez un e-mail de confirmation avec un numéro de réservation. Vous pouvez utiliser ce numéro pour suivre votre réservation en vous connectant à votre compte sur notre site web."
+    },
+    {
+        "question": "Offrez-vous des réductions pour les groupes ?",
+        "answer": "Oui, nous proposons des tarifs réduits pour les réservations de groupes de 10 personnes ou plus. Contactez notre service client pour plus de détails et obtenir un devis personnalisé."
+    },
+    {
+        "question": "Puis-je réserver un voyage en dernière minute ?",
+        "answer": "Oui, nous avons des offres de dernière minute disponibles pour plusieurs destinations. Consultez notre site web ou appelez-nous pour connaître les disponibilités et les tarifs spéciaux."
+    },
+    {
+        "question": "Comment puis-je contacter le service client ?",
+        "answer": "Vous pouvez nous contacter par téléphone au 01 23 45 67 89, par e-mail à support@agencevoyage.com, ou via notre formulaire de contact disponible sur notre site web."
+    },
+    {
+        "question": "Quels types d'hébergement proposez-vous ?",
+        "answer": "Nous proposons une large gamme d'hébergements, allant des hôtels de luxe aux auberges économiques, en passant par des locations de vacances, des resorts tout compris, et des hébergements uniques comme les villas ou les appartements."
+    },
+    {
+        "question": "Organisez-vous des excursions et des activités ?",
+        "answer": "Oui, nous organisons diverses excursions et activités locales telles que des visites guidées, des sports nautiques, des randonnées, des dégustations culinaires, et bien plus encore. Vous pouvez les ajouter à votre réservation lors de votre voyage."
+    },
+    {
+        "question": "Quels sont les avantages de réserver avec votre agence ?",
+        "answer": "En réservant avec nous, vous bénéficiez d'un service personnalisé, de tarifs compétitifs, de l'accès à des offres exclusives, d'une assistance 24/7 pendant votre voyage, et de notre expertise pour vous garantir une expérience de voyage inoubliable."
+    },
+    {
+        "question": "Offrez-vous des options de paiement échelonné ?",
+        "answer": "Oui, nous proposons des plans de paiement échelonné pour certaines réservations. Contactez notre service client pour en savoir plus sur les options disponibles et les conditions applicables."
+    },
+    {
+        "question": "Comment fonctionne le programme de fidélité ?",
+        "answer": "Notre programme de fidélité vous permet de gagner des points à chaque réservation, que vous pouvez ensuite échanger contre des réductions, des surclassements, ou d'autres avantages exclusifs. Inscrivez-vous via notre site web pour commencer à accumuler des points dès votre première réservation."
+    },
+    {
+        "question": "Proposez-vous des voyages pour des événements spéciaux ?",
+        "answer": "Oui, nous organisons des voyages pour des événements spéciaux tels que les festivals, les conférences, les mariages, et les célébrations sportives. Contactez-nous pour créer un voyage adapté à vos besoins spécifiques."
+    },
+    {
+        "question": "Quels sont vos critères de sélection des destinations ?",
+        "answer": "Nous sélectionnons nos destinations en fonction de leur popularité, de la qualité des services disponibles, de la sécurité, des attractions touristiques, et des retours positifs de nos clients. Nous nous efforçons de vous offrir des destinations qui répondent à vos attentes et vous garantissent une expérience mémorable."
+    },
+    {
+        "question": "Comment puis-je laisser un avis sur mon voyage ?",
+        "answer": "Nous serions ravis de connaître votre avis ! Vous pouvez laisser un commentaire directement sur notre site web dans la section des avis, ou nous envoyer un e-mail avec vos retours. Votre feedback nous aide à améliorer constamment nos services."
+    },
+    {
+        "question": "Offrez-vous des services de conciergerie pendant le voyage ?",
+        "answer": "Oui, nous offrons des services de conciergerie pour vous aider à organiser des réservations de restaurants, des billets pour des spectacles, des transferts aéroportuaires, et d'autres besoins spécifiques pendant votre voyage."
+    },
+    {
+        "question": "Proposez-vous des voyages écologiques ou responsables ?",
+        "answer": "Oui, nous proposons des options de voyages écologiques qui mettent l'accent sur la durabilité et le respect de l'environnement. Cela inclut des hébergements écoresponsables, des activités respectueuses de la nature, et des initiatives pour réduire notre empreinte carbone."
+    },
+    {
+        "question": "Comment gérer les imprévus pendant le voyage ?",
+        "answer": "Nous offrons une assistance 24/7 pour vous aider à gérer tout imprévu pendant votre voyage, qu'il s'agisse de changements de réservation, de problèmes médicaux, ou d'autres urgences. Contactez-nous immédiatement en cas de besoin."
+    },
+    {
+        "question": "Offrez-vous des services de transport sur place ?",
+        "answer": "Oui, nous pouvons organiser des services de transport sur place, y compris des transferts aéroportuaires, des locations de voitures, des services de chauffeur privé, et des excursions en bus ou en minibus selon vos besoins."
+    },
+    {
+        "question": "Quels sont les avantages des offres tout compris ?",
+        "answer": "Les offres tout compris incluent généralement l'hébergement, les repas, les boissons, et certaines activités, ce qui vous permet de profiter de votre voyage sans vous soucier des coûts supplémentaires. Cela offre une grande flexibilité et une tranquillité d'esprit pendant votre séjour."
+    },
+    {
+        "question": "Comment puis-je modifier mes informations personnelles dans ma réservation ?",
+        "answer": "Pour modifier vos informations personnelles, connectez-vous à votre compte sur notre site web, accédez à votre réservation, et effectuez les modifications nécessaires. Vous pouvez également contacter notre service client pour obtenir de l'aide."
+    },
+    {
+        "question": "Proposez-vous des voyages adaptés aux personnes à mobilité réduite ?",
+        "answer": "Oui, nous proposons des voyages adaptés aux personnes à mobilité réduite. Veuillez nous informer de vos besoins spécifiques lors de la réservation afin que nous puissions organiser les aménagements nécessaires."
+    },
+    {
+        "question": "Quels sont vos services après-vente ?",
+        "answer": "Nous offrons un support après-vente complet, incluant l'assistance pour les modifications de réservation, les remboursements, les réclamations, et la collecte de vos avis. Notre équipe est disponible pour répondre à toutes vos questions et vous aider même après votre voyage."
+    }
+]
